@@ -1,2 +1,8 @@
 # DCIT314-Game-Engine-Architecture
 DCIT314 Game Engine Architecture Project
+
+SYLVANUS ADJEI DADZIE 
+10898806 
+
+HACKMAN KOFI AGYEMANG
+10868880
