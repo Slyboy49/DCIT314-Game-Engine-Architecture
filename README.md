@@ -44,5 +44,4 @@ Playing a Game:
 2. Follow the in-game instructions to play the selected game.
 
 Export Standalone Games:
-
-1. If you wish to share the game with others, utilize the engine's export feature to create standalone game packages. The exact steps for exporting games will depend on the features and options provided by your specific game engine.
+If you wish to share the game with others, utilize the engine's export feature to create standalone game packages. The exact steps for exporting games will depend on the features and options provided by your specific game engine.
