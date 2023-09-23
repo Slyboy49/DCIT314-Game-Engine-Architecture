@@ -44,4 +44,6 @@ Playing a Game:
 2. Follow the in-game instructions to play the selected game.
 
 Export Standalone Games:
-If you wish to share the game with others, utilize the engine's export feature to create standalone game packages. The exact steps for exporting games will depend on the features and options provided by your specific game engine.
+1. If you wish to share the game with others, utilize the engine's export feature to create standalone game packages. The exact steps for exporting games will depend on the features and options provided by your specific game engine.
+
+By following these steps and ensuring you have the required dependencies and libraries installed, you can be able to set up and run the Mini-Game Engine smoothly.
